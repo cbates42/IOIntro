@@ -1,0 +1,3 @@
+﻿using IOIntro;
+
+new IO();

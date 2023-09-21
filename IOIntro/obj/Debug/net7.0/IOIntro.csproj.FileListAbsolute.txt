@@ -1,0 +1,15 @@
+C:\Users\maxus\source\repos\IOIntro\IOIntro\bin\Debug\net7.0\IOIntro.exe
+C:\Users\maxus\source\repos\IOIntro\IOIntro\bin\Debug\net7.0\IOIntro.deps.json
+C:\Users\maxus\source\repos\IOIntro\IOIntro\bin\Debug\net7.0\IOIntro.runtimeconfig.json
+C:\Users\maxus\source\repos\IOIntro\IOIntro\bin\Debug\net7.0\IOIntro.dll
+C:\Users\maxus\source\repos\IOIntro\IOIntro\bin\Debug\net7.0\IOIntro.pdb
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\IOIntro.csproj.AssemblyReference.cache
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\IOIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\IOIntro.AssemblyInfoInputs.cache
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\IOIntro.AssemblyInfo.cs
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\IOIntro.csproj.CoreCompileInputs.cache
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\IOIntro.dll
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\refint\IOIntro.dll
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\IOIntro.pdb
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\IOIntro.genruntimeconfig.cache
+C:\Users\maxus\source\repos\IOIntro\IOIntro\obj\Debug\net7.0\ref\IOIntro.dll
